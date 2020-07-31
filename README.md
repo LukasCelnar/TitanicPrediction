@@ -28,7 +28,7 @@ This plot shows how many males vs females survived (from a training dataset), fr
 
 Here is an Confusion Matrix describing performence on validation dataset
 
-![Confusion Matrix](/markup_imgs/confusion_matrix.png)
+![Confusion Matrix](/markdown_imgs/confusion_matrix.png)
 
 **What is an Confusion Matrix ?**
 
@@ -48,10 +48,10 @@ With this i tried 5 different models:
 
 From these 5 models, RandomForestClassifier showed up to be best for this task, here is an plot that proves it
 
-![Best clf](/markup_imgs/best_clf.png)
+![Best clf](/markdown_imgs/best_clf.png)
 
 ## Evaluation
 
 Here is an evaluation plot with RandomForestClassifier that was used on a validation dataset, showing Accuracy, Precision, Recall and F1
 
-![Evaluation plot](/markup_imgs/evaluation.png)
+![Evaluation plot](/markdown_imgs/evaluation.png)
